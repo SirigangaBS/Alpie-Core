@@ -1,11 +1,9 @@
 <div align="center">
-  <picture>
-    <img
-      src="figures/my-logo.png"
-      width="30%"
-      alt="Alpie-Core: Efficient Reasoning Intelligence"
-    >
-  </picture>
+  <img
+    src="figures/your-image.png"
+    width="30%"
+    alt="Alpie-Core Logo"
+  >
 </div>
 
 

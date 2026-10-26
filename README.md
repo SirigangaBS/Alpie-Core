@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="figures/your-image.png"
+    src="figures/logo-border-169.svg"
     width="30%"
     alt="Alpie-Core Logo"
   >
